@@ -16,5 +16,5 @@ Mudar o encoding na abertura do arquivo ex: pd.read_csv('arquivo', encoding='cod
 <h3>
 2-Error tokenizing data. C error: Expected 1 fields in line 3, saw 3
 Explicação:<br>
-Nesse caso o dataset tinha 3 colunas para mais de 3 linhas e isso tava gerando uma irregularidade na leitura do arquivo, então usei o skiprows=[0], para desconsiderar essas 3 colunas iniciais, visto que eram dados desnecessários para uma Futura análise
+Nesse caso o dataset tinha 3 colunas na 1° linha e nas linhas abaixo tinha >3 colunas e isso tava gerando uma irregularidade na leitura do arquivo, então usei o skiprows=[0], para desconsiderar essas 3 colunas iniciais, visto que eram dados desnecessários para uma Futura análise
 </h3>
