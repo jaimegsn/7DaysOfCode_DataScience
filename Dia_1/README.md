@@ -6,7 +6,6 @@ Dataset Source: https://www12.senado.leg.br/transparencia/dados-abertos-transpar
 
 <h2>
 Meu 1° dia no #7DaysOfCode em Ciência de Dados, desafio de Paulo Vasconcellos da Alura.
-Organizei a Limpeza dos datasets em vários notebook apenas para fins de entender como foi o meu passo a passo, mas sei que daria pra fazer em apenas 1
 </h2>
 <h4>
 Desafio:<br>
